@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "About"
-    url: /publications/
+    url: /about/
 
   - title: "Results"
-    url: /talks/    
+    url: /results/    
 
   - title: "Evaluation" 
-    url: /teaching/    
+    url: /evaluation/    
     
   - title: "Practice"
-    url: /portfolio/
+    url: /practice/
         
   - title: "Study Examples"
-    url: /year-archive/
+    url: /study-examples/
     
   - title: "References/Links"
-    url: /cv/
+    url: /references/
     
 #  - title: "Guide"
 #    url: /markdown/
