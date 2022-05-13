@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 
-A data-driven personal website
+Why is this topic important?
 ======
-
+In today's day and age mental disorders are [highly prevalent](https://ourworldindata.org/mental-health) and undertreated. 
+People don´t seek help for different reasons.  
 
 
 Getting started
