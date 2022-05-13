@@ -19,23 +19,41 @@ The reason for that are structural treatment barriers and attitudinal factors.
 Researchers of the study say that those attitudinal factors play a bigger role in this behaviour than structural treatment barriers. 
 To help reducing those barriers smartphones could be used. Since a lot of people use their smartphone on a daily basis, there is also a huge interest in developing apps which try to improve the mental health of the users. This brings several advantages. Smartphones can be used with low effort and do not demand a lot of time. Also people do not have to talk to a person face to face and can use it anonymously. This can lead to less fear of stigmatization and therefore reduce the barriers individuals in need of treatment face by a lot.   
 
+<br>
+<p> </p>
+<br>
 
 The Focus of the Study
 ======
 
+<br>
+<p> </p>
+<br>
 
 Effect Sizes 
 ======
 
+<br>
+<p> </p>
+<br>
+
 
 Stakeholders
 ======
+
+<br>
+<p> </p>
+<br>
 
 
 
 
 Additional Effects
 ======
+
+<br>
+<p> </p>
+<br>
 
 
 
