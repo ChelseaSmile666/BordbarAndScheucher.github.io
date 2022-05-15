@@ -11,6 +11,31 @@ redirect_from:
  <p> </p>
  <br>
 
+Summary of the Meta-Analysis
+======
+Focus of the Study:
+------
+To find out wether standalone smartphone apps for mental health are effective in reducing symptoms of mental health disorders and self-injurious thoughts.
+
+Target Group:
+------
+People with heightened symptoms of mental health disorders (for eg. Depression, Anxiety, ...) who have problems with visiting a therapist due to various reasons.
+
+Relevant Stakeholders:
+------
+Mainly psychological researchers, psychiatrists and software developers.
+
+Average Effect Size:
+------
+
+Additional Results:
+------
+
+ <br>
+ <p> </p>
+ <br>
+
+
 Why is this topic important?
 ======
 In today's day and age mental disorders are [highly prevalent](https://ourworldindata.org/mental-health) and undertreated. 
@@ -35,7 +60,7 @@ Process
 <p> </p>
 <br>
 
-Effect Sizes 
+Results
 ======
 
 <br>
@@ -43,7 +68,7 @@ Effect Sizes
 <br>
 
 
-Stakeholders
+Discussion
 ======
 
 <br>
@@ -53,7 +78,7 @@ Stakeholders
 
 
 
-Additional Effects
+Conclusion and Relevant Stakeholders
 ======
 
 <br>
