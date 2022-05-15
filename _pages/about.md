@@ -28,9 +28,10 @@ Mainly psychological researchers, psychiatrists and software developers.
 
 Average Effect Size:
 ------
-The study showed that smartphone apps can help with depression (g=0.33 - g=0.41), anxiety (g=0.43 - g=0.49), smoking (g=0.39) and sleep problems (g=0.84). Studies which analysed trials that employed a wait-list had bigger effect sizes.
+The study showed that smartphone apps can help with depression (g=0.33 - g=0.41), anxiety (g=0.43 - g=0.49), smoking (g=0.39) and sleep problems (g=0.84). Studies which analysed trials that employed a wait-list control-group had more significant results.
 
 Additional Results:
+------
 No significant results for the efficacy of standalone smartphone apps for drinking, post-traumatic stress disorder and self-injurious thoughts and behaviours. Also in for comparisons anxiety did not differenciate between intervention group and control group (p=.145)
 ------
 
