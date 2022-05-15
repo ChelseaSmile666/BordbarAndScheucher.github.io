@@ -13,6 +13,7 @@ redirect_from:
 
 Summary of the Meta-Analysis
 ======
+
 Focus of the Study:
 ------
 To find out wether standalone smartphone apps for mental health are effective in reducing symptoms of mental health disorders and self-injurious thoughts.
