@@ -1,11 +1,4 @@
 ---
-title: 'Future Blog Post'
-date: 2016-12-06
-permalink: /posts/2012/08/blog-post-4/
-tags:
-  - cool posts
-  - category1
-  - category2
+[David's favourite study](https://bmjopen.bmj.com/content/7/1/e013518.?int_source=trendmd&int_medium=cpc&int_campaign=usage-042019)
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
