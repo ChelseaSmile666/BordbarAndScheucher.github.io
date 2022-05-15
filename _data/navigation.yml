@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: /about/
 
-  # - title: "Results"
-  #   url: /talks/    
+  - title: "Study Examples"
+    url: /publications/    
 
   # - title: "Evaluation" 
   #   url: /teaching/    
@@ -12,8 +12,8 @@ main:
   # - title: "Practice"
   #   url: /portfolio/
         
-  - title: "Study Examples"
-    url: /year-archive/
+  # - title: "Study Examples"
+  #   url: /year-archive/
     
   - title: "References/Links"
     url: /cv/
