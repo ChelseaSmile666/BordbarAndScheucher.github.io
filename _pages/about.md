@@ -30,7 +30,7 @@ Even though this smartphone apps for mental health issues are emerging since 10 
 Process
 ======
 
-<img src="../process.png" alt="">
+<img src="https://imgur.com/a/6kTFYJ5" alt="">
 
 <br>
 <p> </p>
