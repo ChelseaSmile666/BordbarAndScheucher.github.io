@@ -3,14 +3,14 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Results"
-    url: /talks/    
+  # - title: "Results"
+  #   url: /talks/    
 
-  - title: "Evaluation" 
-    url: /teaching/    
+  # - title: "Evaluation" 
+  #   url: /teaching/    
     
-  - title: "Practice"
-    url: /portfolio/
+  # - title: "Practice"
+  #   url: /portfolio/
         
   - title: "Study Examples"
     url: /year-archive/
