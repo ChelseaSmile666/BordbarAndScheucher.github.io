@@ -27,8 +27,10 @@ Even though this smartphone apps for mental health issues are emerging since 10 
 <p> </p>
 <br>
 
-The Focus of the Study
+Process
 ======
+
+![][process.png]
 
 <br>
 <p> </p>
