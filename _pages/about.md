@@ -83,6 +83,7 @@ Effects are relatively low. Ranging from significant pooled effects g = 0.33 (De
 
 Articulation
 ------ 
+Precise and good understandable
 
 Generality
 ------ 
