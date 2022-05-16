@@ -68,6 +68,10 @@ Process
 
 Results
 ======
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/WCXAQGy" data-context="false" ><a href="//imgur.com/a/WCXAQGy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+The study could identify 19 eligible trials which evaluated the efficacy of a smarthphone app to help treating mental health symptoms in a randomized controlled trial. Significant pooled effects could be found for depression (g=0.33) and smoking (g=0.39), which are rather small effect sizes. No significant pooled effects were found for anxiety, alcohol use and self-injurious thoughts and behaviour. Also both trials which targeted PTSD symptoms showed no significant effects. When exploring depression and axniety, regardless wheter this was the primary aim of the the intervention, pooled effecs were significant (anxiety: g=0.43, depression: g=0.34)
+
 
 <br>
 <p> </p>
