@@ -56,6 +56,7 @@ Before the study took place the two groups did not differ in dysfunctional attit
 At the follow-up the study showed that participants of the TT group improved their DAS mean score significantly after 3 weeks of app usage (Wilcoxon’s test, Z = -2.533, p = 0.011). The control group showed no changes in negative beliefs (p<.05). DAS scores of the TT group were lower than they were in the control group (Z = -2.26, p = 0.024). The Wilcoxon test for clinical symptoms showed reduced BDIII (TT group: Z= -3.386, p = 0.001; control group’s Z= -3.011, p = 0.003) and situation-dependent STAI-X2 (TT group’s Z= -2.913, p = 0.004 vs. control group’s Z= -2.511, p = 0.012) scores for both groups after completing the 3 week course. 
 
 **Conclusion:**
+Considering the control group also received a treatment (mood diary app) which also has an impact on the mental health of the participants. To see a better contrast it would be better to use a control group which does not receive any kind of intervention. But the app TT showed good results for the self-help via smartphone and could revolutionate the treatment of other specified depressive disorder if further research is conducted.
 
 
 [LINK TO STUDY](https://www.liebertpub.com/doi/full/10.1089/tmj.2017.0214)
