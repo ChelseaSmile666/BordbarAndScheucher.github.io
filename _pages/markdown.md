@@ -25,3 +25,4 @@ The two SB groups were instructed to use the SB-app for 10 minutes daily for 1 m
 
 *David Bordbar
 
+[LINK TO STUDY](https://www.liebertpub.com/doi/full/10.1089/tmj.2017.0214)
