@@ -106,8 +106,10 @@ Biases addressed, transparent study selection, transparent quality assessment by
 <p> </p>
 <br>
 
-Conclusion and Relevant Stakeholders
+Conclusion
 ======
+Only 19 Trials were selected although there is a big bandwith of mental health apps on the consumer market. This is in line with previous studys. 
+These findings indicate that the growing body of evidence supporting digital mental health interventions delivered via the internet as an effective method of treating mental illness cannot be directly extended to digital interventions delivered via standalone mobile apps for all mental illnesses. However apps that target mental health issues still seem to reduce symptoms of certain illnesses. For these apps to work as a standalone therapy or substitute for professional interventions there is still a lot to be done and it shouldn’t be recommended to rely on these apps alone.
 
 <br>
 <p> </p>
