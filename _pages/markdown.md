@@ -21,3 +21,7 @@ The two SB groups were instructed to use the SB-app for 10 minutes daily for 1 m
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/63PRY6R" data-context="false" ><a href="//imgur.com/a/63PRY6R"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+[LINK TO STUDY](https://mentorhubapp.com/wp-content/uploads/2020/05/Roepke-et-al.-2015-Randomized-Controlled-Trial-of-SuperBetter-a-Smartphone-Based_Internet-Based-Self-Help-Tool-to-Reduce-Depressive-Symptoms.pdf)
+
+*David Bordbar
+
