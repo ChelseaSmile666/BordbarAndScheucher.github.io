@@ -28,7 +28,6 @@ Mainly psychological researchers, psychiatrists and software developers.
 
 Average Effect Size:
 ------
-The study showed that smartphone apps can help with depression and smoking behaviour
 Small significant effect on Depression (Hedges g = 0.33)
 Small significant effect on smoking behaviour (Hedges g = 0.39).
 
@@ -106,9 +105,6 @@ Biases addressed, transparent study selection, transparent quality assessment by
 <br>
 <p> </p>
 <br>
-
-
-
 
 Conclusion and Relevant Stakeholders
 ======
