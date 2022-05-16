@@ -9,7 +9,7 @@ redirect_from:
 
 ## Our Favourite Studies:
 
-* Nathalie Scheucher
+*Nathalie Scheucher
 ------
 The study of Roepke et al. (2015) looks at the efficacy of smartphone/web based intervention when it comes to depressive symptoms. Through randomized controlled trial an intervention called SuperBetter (SB), which is accessed via smartphone and/or the SB Web site the efficacy of SB was evaluated. 283 adult iPhone users that had significant depression symptoms according to the Center of Epidemiological Studies Depression questionnaire (CES-D) were asked to complete the study. 
 They were randomly assigned to one of three conditions: 
@@ -54,5 +54,8 @@ App Use:
 **Results:**
 Before the study took place the two groups did not differ in dysfunctional attitude, clinical symptoms and resilience.
 At the follow-up the study showed that participants of the TT group improved their DAS mean score significantly after 3 weeks of app usage (Wilcoxon’s test, Z = -2.533, p = 0.011). The control group showed no changes in negative beliefs (p<.05). DAS scores of the TT group were lower than they were in the control group (Z = -2.26, p = 0.024). The Wilcoxon test for clinical symptoms showed reduced BDIII (TT group: Z= -3.386, p = 0.001; control group’s Z= -3.011, p = 0.003) and situation-dependent STAI-X2 (TT group’s Z= -2.913, p = 0.004 vs. control group’s Z= -2.511, p = 0.012) scores for both groups after completing the 3 week course. 
+
+**Conclusion:**
+
 
 [LINK TO STUDY](https://www.liebertpub.com/doi/full/10.1089/tmj.2017.0214)
