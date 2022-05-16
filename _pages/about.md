@@ -74,8 +74,29 @@ Results
 <br>
 
 
-Discussion
+Quality of the Meta-Analysis
 ======
+
+ Magnitude
+------
+Effects are relatively low. Ranging from significant pooled effects g = 0.33 (Depression) to g = 0.39 (smoking behaviour) they are not that compelling. Significant effects on insomnia are more compelling with Hedges g = 0.72 to 0.84, though these are from single trials since there weren’t enough comparisons to get pooled effects
+
+Articulation
+------ 
+
+Generality
+------ 
+Pretty general since they targeted a broad spectrum of mental health issue apps. The effects for PTSD and insomnia couldn’t be pooled.
+
+Interestingness
+------ 
+The results of this meta analysis are relevant to particular stakeholders. If apps can help ease mental health sympoms or help stop smoking/drinking a lot of people could be helped that normally wouldn’t have access to therapy etc.. 
+
+Credibility
+------ 
+Biases addressed, transparent study selection, transparent quality assessment by two independent researchers.
+
+
 
 <br>
 <p> </p>
