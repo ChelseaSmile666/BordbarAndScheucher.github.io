@@ -28,6 +28,8 @@ SB participants achieved greater reductions in CES-D scores than WL participants
 **Conclusion:**
 Considering the high attrition rate and the motivated, self-selected sample, these large effect sizes should be interpreted cautiously. Self-help via smartphones/the Internet may nevertheless have a significant impact on the treatment of depression.
 
+**Why did I choose this study?**
+
 Screenshots of the SuperBetter App:
 
 <a href="https://gyazo.com/1ef91b4a411fa012500682b0f4d5f771"><img src="https://i.gyazo.com/1ef91b4a411fa012500682b0f4d5f771.png" alt="Image from Gyazo" width="406"/></a>
@@ -43,10 +45,6 @@ Screenshots of the SuperBetter App:
 ------
 The Study of Hur et al. (2018) was conducted to introdice and verify a new smartphone app which directly intervenes in dysfunctional thoughts. This is done by recognizing automatic and negative thoughts of the protagonist of scenarios and giving direct advise to the main character. This study included 31 participants with other specified depressive disorder which were randomly allocated to either the treatment group Todac Todac (TT) or a daily mood chart app program (control group: CG). The participants were asked to use the app for 3 weeks daily and the clinical thoughts symptoms and autonomic thoughts were administered at baseline and a follow-up evaluation. The dysfunctional thoughts were assessed with the Dysfunctional Attitude Scale (DAS), Depression with the Beck Depression Inventoriy II (BDI-II) and anxiety with the State-Trait Anxiety Inventory (STAI-X2). Participants needed to meet following criteria: DSM-5 diagnosis of other specified depressive disorder (but no diagnosis of major depressive disorder), fluent in Korean, 12 or more years of education and being familiar with Internet and smartphone app use. 
 
-Participants Excluded:
-
-<a href="https://gyazo.com/e3208b907d244aafcc70ebce36b9875c"><img src="https://i.gyazo.com/e3208b907d244aafcc70ebce36b9875c.png" alt="Image from Gyazo" width="613"/></a>
-
 App Use:
 
 <a href="https://gyazo.com/f1601c8e804c6b68e3299bfca206c20a"><img src="https://i.gyazo.com/f1601c8e804c6b68e3299bfca206c20a.png" alt="Image from Gyazo" width="965"/></a>
@@ -57,6 +55,9 @@ At the follow-up the study showed that participants of the TT group improved the
 
 **Conclusion:**
 Considering the control group also received a treatment (mood diary app) which also has an impact on the mental health of the participants. To see a better contrast it would be better to use a control group which does not receive any kind of intervention. But the app TT showed good results for the self-help via smartphone and could revolutionate the treatment of other specified depressive disorder if further research is conducted.
+
+**Why did I choose this study?**
+Personally I think dysfunctional thoughts play a big role in many mental health disorders. This study focused on diminishing those dysfunctional thoughts and therefore reduce the symptoms of Other Specified Depressive Disorder. Also the therapy method (CBT) is very good in treating depressive disorders by breaking the dysfunctional thought patterns and replace them with much healthier thought patterns. The study had a lot of participants even thought it was a longitudinal research design which I like very much.   
 
 
 [LINK TO STUDY](https://www.liebertpub.com/doi/full/10.1089/tmj.2017.0214)
