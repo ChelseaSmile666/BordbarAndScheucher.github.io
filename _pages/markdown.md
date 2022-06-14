@@ -37,7 +37,7 @@ Screenshots of the SuperBetter App:
 
 
 
-[LINK TO STUDY](https://mentorhubapp.com/wp-content/uploads/2020/05/Roepke-et-al.-2015-Randomized-Controlled-Trial-of-SuperBetter-a-Smartphone-Based_Internet-Based-Self-Help-Tool-to-Reduce-Depressive-Symptoms.pdf)
+[LINK TO STUDY](https://www.liebertpub.com/doi/abs/10.1089/g4h.2014.0046)
 
 *David Bordbar
 ------
