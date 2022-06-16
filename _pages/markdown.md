@@ -42,6 +42,8 @@ Screenshots of the SuperBetter App:
 The Study of Hur et al. (2018) was conducted to introdice and verify a new smartphone app which directly intervenes in dysfunctional thoughts. This is done by recognizing automatic and negative thoughts of the protagonist of scenarios and giving direct advise to the main character. This study included 31 participants with other specified depressive disorder which were randomly allocated to either the treatment group Todac Todac (TT) or a daily mood chart app program (control group: CG). The participants were asked to use the app for 3 weeks daily and the clinical thoughts symptoms and autonomic thoughts were administered at baseline and a follow-up evaluation. The dysfunctional thoughts were assessed with the Dysfunctional Attitude Scale (DAS), Depression with the Beck Depression Inventoriy II (BDI-II) and anxiety with the State-Trait Anxiety Inventory (STAI-X2). Participants needed to meet following criteria: DSM-5 diagnosis of other specified depressive disorder (but no diagnosis of major depressive disorder), fluent in Korean, 12 or more years of education and being familiar with Internet and smartphone app use. 
 
 **App Use (Todac Todac):**
+
+
 Step 1: Identifying Cognitive Distortion
 Read a scenario, find the automatic and systematic negative beliefs that each vignette's protagonist has (e.g., catastrophizing, overgeneralization).
 
