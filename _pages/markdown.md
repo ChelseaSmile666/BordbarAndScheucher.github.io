@@ -18,10 +18,6 @@ They were randomly assigned to one of three conditions:
 3) a waiting list control group (WL). 
 The two SB groups were instructed to use the SB-app for 10 minutes daily for 1 month. All participants completed psychological distress and well-being measures online every 2 weeks through follow-up.
 
-Process of the study:
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/63PRY6R" data-context="false" ><a href="//imgur.com/a/63PRY6R"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 **Results:** 
 SB participants achieved greater reductions in CES-D scores than WL participants by posttest (Cohen’s d = 0.67) and by follow-up (d = 1.05). Contrary to prediction, CBT-PPT SB did not perform better than General SB. However both versions of SB were more effective than the WL control.
 
