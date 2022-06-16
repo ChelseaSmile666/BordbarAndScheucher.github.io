@@ -34,7 +34,7 @@ Small significant effect on smoking behaviour (Hedges g = 0.39).
 Additional Results:
 ------
 No significant results for the efficacy of standalone smartphone apps for drinking, post-traumatic stress disorder, anxiety, suicide ideation and self-injurious thoughts and behaviours (g = −0.14 to 0.18). 
-------
+
 
  <br>
  <p> </p>
