@@ -18,6 +18,9 @@ They were randomly assigned to one of three conditions:
 3) a waiting list control group (WL). 
 The two SB groups were instructed to use the SB-app for 10 minutes daily for 1 month. All participants completed psychological distress and well-being measures online every 2 weeks through follow-up.
 
+**Study Flow**
+After the completed eligibility assessment (n=395), 94 Probands were excluded due to various reasons. The remaining 283 Probands were randomly assigned to either the CBT/PPT SuperBetter Group (n=93), the general SuperBetter group (n=97) or the waitlist control group (n=93). Only 41.34% of the original sample at midpoint (n = 117), 26.15 %t at posttest (n = 74), and 18.34 %  at follow-up (n = 52) remained.
+
 **Results:** 
 SB participants achieved greater reductions in CES-D scores than WL participants by posttest (Cohen’s d = 0.67) and by follow-up (d = 1.05). Contrary to prediction, CBT-PPT SB did not perform better than General SB. However both versions of SB were more effective than the WL control.
 
@@ -25,6 +28,7 @@ SB participants achieved greater reductions in CES-D scores than WL participants
 Considering the high attrition rate and the motivated, self-selected sample, these large effect sizes should be interpreted cautiously. Self-help via smartphones/the Internet may nevertheless have a significant impact on the treatment of depression.
 
 **Why did I choose this study?**
+Overall I found the concept of the SuperBetter App interesting. With the gamification elements, it seemed like a fascinating app to examine the effects for. Also, it sparked my interest that the founder/creator of SuperBetter, Jane McGonial, or rather the team of SuperBetter seems to be proud of their app that is “backed by science” and I wanted to know what the science behind this proud sentence on their website looks like. That’s why I chose this study in the first place. Plus the Effect sizes appeared to be quite large at the first glance. After a second glance, they are still as large as before but as the author stated they should be interpreted with caution. All in all, I found the study to be well conducted and all the problems were addressed transparently (like the high attrition rates)
 
 Screenshots of the SuperBetter App:
 

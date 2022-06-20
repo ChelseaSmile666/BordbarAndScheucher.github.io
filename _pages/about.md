@@ -59,7 +59,7 @@ Even though this smartphone apps for mental health issues are emerging since 10 
 
 Process
 ======
-add text or selfmade graph
+<a href="https://gyazo.com/6eddb08a44a2f948dff4e5d9118b5a71"><img src="https://i.gyazo.com/6eddb08a44a2f948dff4e5d9118b5a71.png" alt="Image from Gyazo" width="1285"/></a>
 
 <br>
 <p> </p>
